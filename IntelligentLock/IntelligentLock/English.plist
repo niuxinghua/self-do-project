@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>home</key>
+	<string>Home</string>
+	<key>record</key>
+	<string>Record</string>
+	<key>add</key>
+	<string>Add</string>
+	<key>message</key>
+	<string>Message</string>
+	<key>mine</key>
+	<string>Me</string>
+	<key>yonghuxieyi</key>
+	<string>User protocol</string>
+	<key>yonghucuowu</key>
+	<string>Failed to get user information</string>
+	<key>lianwangshibai</key>
+	<string>Failed to connect to network. Please try again.</string>
+	<key>lanyadizhicuowu</key>
+	<string>Wrong format of Bluetooth address</string>
+	<key>lianjieshibai</key>
+	<string>Connect failed</string>
+	<key>lianjiechaoshi</key>
+	<string>Connect timeout, please try again</string>
+	<key>duankailianjie</key>
+	<string>Disconnect</string>
+	<key>lianjiechenggong</key>
+	<string>Connect Success</string>
+	<key>lianjiezhong</key>
+	<string>Connecting...</string>
+	<key>yilianjie</key>
+	<string>Connected</string>
+	<key>yiduankai</key>
+	<string>Disconnected</string>
+	<key>zhengzaikaisuo</key>
+	<string>Unlocking...</string>
+	<key>kaisuoshibai</key>
+	<string>Failed to unlock, please try again.</string>
+	<key>mensuoyikaiqi</key>
+	<string>Unlocked</string>
+	<key>dianliangdi</key>
+	<string>Low power，please replace lock battery.</string>
+	<key>wuquankaisuo</key>
+	<string>No authority to unlock.Please contact the administrator.</string>
+	<key>zhuangtaisuowu</key>
+	<string>Cannot unlock with Bluetooth in current mode</string>
+	<key>changshangdaimacuowu</key>
+	<string>Manufacturer code is not match.</string>
+	<key>weizhicuowu</key>
+	<string>Unknown error</string>
+	<key>meiyoulianjiedaozhengquesuo</key>
+	<string>Not connect to right lock</string>
+	<key>suosoushibai</key>
+	<string>Failed to connect to lock</string>
+	<key>suoweixiangying</key>
+	<string>Unresponsive lock</string>
+	<key>weijinrulanyamoshi</key>
+	<string>The lock is not in Bluetooth mode</string>
+	<key>lanyaweidakai</key>
+	<string>Bluetooth has not been opened</string>
+	<key>caozuochenggong</key>
+	<string>Successful operation</string>
+	<key>bangdingshibai</key>
+	<string>Failed to bind</string>
+	<key>bangdingcehnggong</key>
+	<string>Bind success</string>
+	<key>bangdingzhong</key>
+	<string>Binging administrator...</string>
+	<key>kongzifuchuan</key>
+	<string>String is null.</string>
+	<key>zhongwencuowu</key>
+	<string>Failed to create QR code.</string>
+	<key>shurusuodizhi</key>
+	<string>MAC of the lock.</string>
+	<key>mingcheng</key>
+	<string>Name</string>
+	<key>shanchu</key>
+	<string>Delete</string>
+	<key>shanchuzhong</key>
+	<string>Deleting...</string>
+	<key>zhengzaitijiao</key>
+	<string>Submitting...</string>
+	<key>huoqusuoxinxishibai</key>
+	<string>Failed to get lock information.</string>
+	<key>huoqusuoxinxichenggong</key>
+	<string>Get lock information success.</string>
+	<key>shanchushibai</key>
+	<string>Failed to delete</string>
+	<key>shanchuchenggong</key>
+	<string>Delete success</string>
+	<key>zhengzaihuoqujilu</key>
+	<string>Getting records...</string>
+	<key>login</key>
+	<string>Login</string>
+	<key>register</key>
+	<string>Register</string>
+	<key>wangjimima</key>
+	<string>Forgot Password</string>
+	<key>diqutishi</key>
+	<string>Country code</string>
+	<key>mimatishi</key>
+	<string>Password</string>
+	<key>qingshuruzhaghaomima</key>
+	<string>Please input username and password</string>
+	<key>yanzhengma</key>
+	<string>Verification code</string>
+	<key>fasongyanzhengma</key>
+	<string>Get code</string>
+	<key>qingzaicihurumima</key>
+	<string>Your password again</string>
+	<key>zhucexieyi</key>
+	<string>Term of Service and Privacy Policy</string>
+	<key>zhaohuimima</key>
+	<string>Change Password</string>
+	<key>shoujihaobudui</key>
+	<string>Please use correct phone number or email</string>
+	<key>qingshuuyanzhengma</key>
+	<string>Please input verification code</string>
+	<key>qingshurumima</key>
+	<string>Your password</string>
+	<key>mimageshibudui</key>
+	<string>Password must contain at least 6 characters, including both letters and numbers</string>
+	<key>querenmima</key>
+	<string>Confirm</string>
+	<key>mimabuyizhi</key>
+	<string>Passwords not match</string>
+	<key>weiongyxiey</key>
+	<string>Do not agree agreement</string>
+	<key>zhongguo</key>
+	<string>China</string>
+	<key>qingxuanxequhao</key>
+	<string>Please input country code</string>
+	<key>yaoshileixing</key>
+	<string>Key Type</string>
+	<key>linshiyaoshi</key>
+	<string>Temporary</string>
+	<key>yongjiuyaoshi</key>
+	<string>Permanent</string>
+	<key>sendkey</key>
+	<string>Auth Key</string>
+	<key>qingshurujiehsouren</key>
+	<string>Recipient number</string>
+	<key>managekey</key>
+	<string>Key Adm</string>
+	<key>quanxian</key>
+	<string>Authority</string>
+	<key>shijian</key>
+	<string>Time</string>
+	<key>queding</key>
+	<string>Ok</string>
+	<key>xiugaimima</key>
+	<string>Change Password</string>
+	<key>xiugaishibai</key>
+	<string>Failed to update</string>
+	<key>shurunicheng</key>
+	<string>Please input nickname</string>
+	<key>nichengguochang</key>
+	<string>Nickname is too long. Please try again.</string>
+	<key>yanzheng</key>
+	<string>Verification</string>
+	<key>huoquyanzhengshibai</key>
+	<string>Failed to get verification code</string>
+	<key>huoquyanzhengma</key>
+	<string>Getting verification code...</string>
+	<key>zhuxiaozhong</key>
+	<string>Deregistering...</string>
+	<key>zhengzaizhuce</key>
+	<string>Registering...</string>
+	<key>denglushibai</key>
+	<string>Failed to login</string>
+	<key>zhuceshibai</key>
+	<string>Failed to register</string>
+	<key>zhaohuichenggong</key>
+	<string>Change password success. Please login with new password.</string>
+	<key>zhuxiaotishi</key>
+	<string>Note: All user data will be deleted when deregistering. Are you sure to deregister?</string>
+	<key>shanchuguanliyuantishi</key>
+	<string>Are you sure to delete administrator？</string>
+	<key>shezhitouxiang</key>
+	<string>Update Profile Photo</string>
+	<key>xiangji</key>
+	<string>Take Photo</string>
+	<key>xiangce</key>
+	<string>Choose from Photos</string>
+	<key>guanyu</key>
+	<string>About Us</string>
+	<key>qingshuruzhaghao</key>
+	<string>Please input account</string>
+	<key>qingshurubeizhu</key>
+	<string>Please input notes.</string>
+	<key>zhangzaitianjiayaoshi</key>
+	<string>Adding key...</string>
+	<key>tianjiachenggong</key>
+	<string>Add success</string>
+	<key>tianjiashibai</key>
+	<string>Failed to Add</string>
+	<key>qingsaomiaoyonghu</key>
+	<string>Please scan user QR code for more information.</string>
+	<key>setting</key>
+	<string>Settings</string>
+	<key>adduser</key>
+	<string>Add User</string>
+	<key>manageuser</key>
+	<string>User Adm</string>
+	<key>clicktogetrecords</key>
+	<string>Please get records manually.</string>
+	<key>lastupdatetime</key>
+	<string>Last sync time</string>
+	<key>clearrecords</key>
+	<string>Empty records</string>
+	<key>bindadmin</key>
+	<string>Bind Administrator</string>
+	<key>shanchuyaoshitishi</key>
+	<string>Are you sure to delete this key?</string>
+	<key>shijianduan</key>
+	<string>Interval</string>
+	<key>naoling</key>
+	<string>Alarm</string>
+	<key>cishu</key>
+	<string>Count</string>
+	<key>kaishishijian</key>
+	<string>Start Time</string>
+	<key>jieshushijian</key>
+	<string>End Time</string>
+	<key>zhouyi</key>
+	<string>Mon</string>
+	<key>zhouer</key>
+	<string>Tue</string>
+	<key>zhousan</key>
+	<string>Wed</string>
+	<key>zhousi</key>
+	<string>Thur</string>
+	<key>zhouwu</key>
+	<string>Fri</string>
+	<key>zhouliu</key>
+	<string>Sat</string>
+	<key>zhoutian</key>
+	<string>Sun</string>
+	<key>meitian</key>
+	<string>Daily</string>
+	<key>shurucishu</key>
+	<string>Please input the authorized unlocking times.</string>
+	<key>shurukaishishijian</key>
+	<string>Please input start time</string>
+	<key>shurujieshushijian</key>
+	<string>Please input end time</string>
+	<key>sdayue</key>
+	<string>Start time is bigger than end time. Please select again.</string>
+	<key>xuanzeriqi</key>
+	<string>Please select data</string>
+	<key>tianjiachenggongjinrusuo</key>
+	<string>Success to add. Please notify user to refresh the &quot;my lock&quot; list.</string>
+	<key>wuquanlixian</key>
+	<string>Unauthorized to unlock offline. Please be online and try again.</string>
+	<key>lixiancishuyongwan</key>
+	<string>Unauthorized to unlock offline. Please re-login.</string>
+	<key>shurubianhao</key>
+	<string>Please input index</string>
+	<key>tianjiayonghubeizhu</key>
+	<string>Note: the nickname will be assigned to an existing user or create a new user.</string>
+	<key>yonghutuichu</key>
+	<string>User abandon operation</string>
+	<key>jinrushezhichenggong</key>
+	<string>Receive command, in setting mode now</string>
+	<key>qingkongxiaoxi</key>
+	<string>Empty message</string>
+	<key>qingchuxiaoxitishi</key>
+	<string>After the message is cleared, the previously saved information can no longer be seen.</string>
+	<key>jinrushezhishibai</key>
+	<string>Wrong MAC address or manufacture ID. Failed to set the lock</string>
+	<key>caozuowancheng</key>
+	<string>Operation complete</string>
+	<key>zhiwen</key>
+	<string>Fingerprintprint</string>
+	<key>mima</key>
+	<string>Password</string>
+	<key>ic</key>
+	<string>IC Card</string>
+	<key>yaokong</key>
+	<string>Remote Control</string>
+	<key>huoquyonghubiammashibai</key>
+	<string>Failed to get user ID</string>
+	<key>weitianjiasuo</key>
+	<string>No lock yet, please add</string>
+	<key>xiugaichenggong</key>
+	<string>Modify success</string>
+	<key>shanchubeizhutishi</key>
+	<string>Delete this note?</string>
+	<key>shanchuyonghutishi</key>
+	<string>Delete this key?</string>
+	<key>gengxin</key>
+	<string>Update</string>
+	<key>qingchujilutishi</key>
+	<string>Record will be deleted permanently and cannot be restored</string>
+	<key>zhengzaishangchuankaisuojilu</key>
+	<string>Uploading unlocking record...</string>
+	<key>suoleixingbianma</key>
+	<string>Code</string>
+	<key>suoleixing</key>
+	<string>Type</string>
+	<key>suomingcheng</key>
+	<string>   Name</string>
+	<key>shoudongshuru</key>
+	<string>Manual input</string>
+	<key>xiangjiquanxian</key>
+	<string>If you have failed to get the video device, please make sure that the camera rights are open</string>
+	<key>saomiaotishi</key>
+	<string>Please put the QR code into the box.</string>
+	<key>zaianyicituichu</key>
+	<string>Click again to exit</string>
+	<key>nickname</key>
+	<string>Nickname</string>
+	<key>password</key>
+	<string>Password</string>
+	<key>locklist</key>
+	<string>Lock List</string>
+	<key>destroyaccount</key>
+	<string>Deregister</string>
+	<key>modify</key>
+	<string>Update</string>
+	<key>zhuxiaoshibai</key>
+	<string>Failed to deregister</string>
+	<key>zhengzaitongbu</key>
+	<string>Syncing user information ...</string>
+	<key>zhengzaihuoqusuoxinxi</key>
+	<string>Getting lock information...</string>
+	<key>morenfenzu</key>
+	<string>Default</string>
+	<key>caozuoshibai</key>
+	<string>operation failed</string>
+	<key>xuanzeriqishijian</key>
+	<string>Please choose the date and time</string>
+	<key>qingxuanzeriqi</key>
+	<string>Please choose the date</string>
+	<key>xuanzenianyue</key>
+	<string>Please choose year and month</string>
+	<key>xuanzeshijian</key>
+	<string>Please choose the time</string>
+	<key>caozuovbuzhou</key>
+	<string>Procedure :</string>
+	<key>tianjiasuo1</key>
+	<string>1. Put lock into administrator mode</string>
+	<key>tianjiasuo2</key>
+	<string>2. Enable Bluetooth and go into setting mode</string>
+	<key>tianjiasuo3</key>
+	<string>3. Input the Bluetooth MAC address here</string>
+	<key>tianjiasuo4</key>
+	<string>4. Click &quot;Bind&quot; button to bind administrator</string>
+	<key>logout</key>
+	<string>Logout</string>
+	<key>search</key>
+	<string>Search</string>
+	<key>cancell</key>
+	<string>Cancel</string>
+	<key>keytype</key>
+	<string>Key Type</string>
+	<key>account</key>
+	<string>Account</string>
+	<key>info</key>
+	<string>Notes</string>
+	<key>canoffline</key>
+	<string>Allow offline unlock?</string>
+	<key>cansendmessage</key>
+	<string>send SMS reminder?</string>
+	<key>pkey</key>
+	<string>Permanent</string>
+	<key>tkey</key>
+	<string>Temporary</string>
+	<key>enteraccount</key>
+	<string>Recipient number</string>
+	<key>entername</key>
+	<string>Name of the lock.</string>
+	<key>send</key>
+	<string>Authorize</string>
+	<key>syssetting</key>
+	<string>System Settings</string>
+	<key>aboutus</key>
+	<string>About Us</string>
+	<key>currentv</key>
+	<string>Current Version</string>
+	<key>vupdate</key>
+	<string>Version Update</string>
+	<key>code</key>
+	<string>Number</string>
+	<key>power</key>
+	<string>Battery Percentage</string>
+	<key>lockv</key>
+	<string>Version of the lock</string>
+	<key>zhanghaotishi</key>
+	<string>Phone number or email</string>
+	<key>linshi</key>
+	<string>temporary</string>
+	<key>yongjiu</key>
+	<string>permanent</string>
+	<key>chongxinhuoqu</key>
+	<string>Send Again</string>
+	<key>shiyongcishudaoqi</key>
+	<string>count run out</string>
+	<key>quxiao</key>
+	<string>Cancell</string>
+	<key>yonghuguanli</key>
+	<string>User Manage</string>
+	<key>username</key>
+	<string>Username</string>
+	<key>usernamep</key>
+	<string>Input Username</string>
+	<key>xuanzeleixing</key>
+	<string>Please selecet one type</string>
+	<key>moren</key>
+	<string>Default</string>
+	<key>shanchufenzu</key>
+	<string>Delete this user?</string>
+	<key>quedingshanchu</key>
+	<string>Delete this key?</string>
+	<key>weizhisuo</key>
+	<string>unknownlock</string>
+	<key>shurusuomingcheng</key>
+	<string>Please enter the lock name.</string>
+	<key>neterror</key>
+	<string>net error</string>
+	<key>areaerror</key>
+	<string>get area code error</string>
+</dict>
+</plist>
