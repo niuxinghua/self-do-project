@@ -1,0 +1,142 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - AMapFoundation (1.4.2)
+  - AMapLocation (2.5.0):
+    - AMapFoundation (~> 1.4)
+  - AMapSearch (5.5.0):
+    - AMapFoundation (~> 1.4)
+  - BaiduMapKit (3.4.2)
+  - BlocksKit (2.2.5):
+    - BlocksKit/All (= 2.2.5)
+  - BlocksKit/All (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+    - BlocksKit/MessageUI
+    - BlocksKit/UIKit
+  - BlocksKit/Core (2.2.5)
+  - BlocksKit/DynamicDelegate (2.2.5)
+  - BlocksKit/MessageUI (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - BlocksKit/UIKit (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - Bugly (2.4.8)
+  - CocoaAsyncSocket (7.6.1)
+  - Colours (5.13.0):
+    - Colours/ObjC (= 5.13.0)
+  - Colours/ObjC (5.13.0)
+  - DeviceUtil (2.0.4)
+  - DZNEmptyDataSet (1.8.1)
+  - IQKeyboardManager (4.0.13)
+  - Masonry (1.0.2)
+  - MBProgressHUD (1.0.0)
+  - MJExtension (3.0.13)
+  - MJRefresh (3.1.12)
+  - NJKWebViewProgress (0.2.3):
+    - NJKWebViewProgress/Core (= 0.2.3)
+    - NJKWebViewProgress/ProgressView (= 0.2.3)
+  - NJKWebViewProgress/Core (0.2.3)
+  - NJKWebViewProgress/ProgressView (0.2.3)
+  - RongCloudIM/IMKit (2.8.16):
+    - RongCloudIM/IMLib
+  - RongCloudIM/IMLib (2.8.16)
+  - SDWebImage (4.1.0):
+    - SDWebImage/Core (= 4.1.0)
+  - SDWebImage/Core (4.1.0)
+  - Toast (3.1.0)
+  - YYCache (1.0.4)
+  - ZXingObjC (3.2.1):
+    - ZXingObjC/All (= 3.2.1)
+  - ZXingObjC/All (3.2.1)
+
+DEPENDENCIES:
+  - AFNetworking
+  - AMapLocation
+  - AMapSearch
+  - BaiduMapKit
+  - BlocksKit
+  - Bugly
+  - CocoaAsyncSocket
+  - Colours
+  - DeviceUtil
+  - DZNEmptyDataSet
+  - IQKeyboardManager
+  - Masonry
+  - MBProgressHUD
+  - MJExtension
+  - MJRefresh
+  - NJKWebViewProgress
+  - RongCloudIM/IMKit (~> 2.8.3)
+  - RongCloudIM/IMLib (~> 2.8.3)
+  - SDWebImage
+  - Toast
+  - YYCache
+  - ZXingObjC (~> 3.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - AMapFoundation
+    - AMapLocation
+    - AMapSearch
+    - BaiduMapKit
+    - BlocksKit
+    - Bugly
+    - CocoaAsyncSocket
+    - Colours
+    - DeviceUtil
+    - DZNEmptyDataSet
+    - IQKeyboardManager
+    - Masonry
+    - MBProgressHUD
+    - MJExtension
+    - MJRefresh
+    - NJKWebViewProgress
+    - RongCloudIM
+    - SDWebImage
+    - Toast
+    - YYCache
+    - ZXingObjC
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  AMapFoundation: 6c0471c9a6a0ad17dad46e3d800ad56ca170f82a
+  AMapLocation: d02bd8c0081b0bc51b2e4cf89925ef57448263c9
+  AMapSearch: dc9958acfb61b58dcbce79736bf14a39dde7506f
+  BaiduMapKit: f61b19ecf07a3f2deede72b221b366bf698739ed
+  BlocksKit: 7f422b971407001178d181a43b99014ea2591fe6
+  Bugly: da3c02408c14838d498429320545a8e439392978
+  CocoaAsyncSocket: 7eadd3f59e1a6c84e2aefc93e9ff7b55156fe174
+  Colours: f24220c38f13deac88612667e9b4a7fb96b871d4
+  DeviceUtil: 767aaa647d29828b169f686939dc3e9300ab895f
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  IQKeyboardManager: 8eab4d8111418414619d1df8e4779ce5d0f8d7e2
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  NJKWebViewProgress: f481fd424cb5ecc27eacae11b5397db92fba9a4d
+  RongCloudIM: bca5c24b91e979718570341d856a7be7e65c0f09
+  SDWebImage: 0e435c14e402a6730315a0fb79f95e68654d55a4
+  Toast: 14a93686d6c8bfe2727afd342414e35660a8a1f3
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+  ZXingObjC: bbf7b8f0cf8933fdd33eb4f9f46e22308552869b
+
+PODFILE CHECKSUM: 812f7c2f3a29e0bc0810365082261866a45cf92a
+
+COCOAPODS: 1.5.3
